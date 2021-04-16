@@ -1,10 +1,10 @@
-<h1 align="center">OpenEdu</h1> <br>
+<h1 align="center">Intract&Learn</h1> <br>
 <p>An Interactive Classroom, Nonprofit, Borderless University, Blockchain-Powered, that is controlled by society and not individuals.</p>
 
 <h2 align="center">Installing Dependencies and Running the platform</h2>
 
 <ui>
-  <li> git clone https://github.com/eppisai/opensourceEd.git </li>
+  <li> git clone</li>
   <li>cd opensourceEd</li>
   <li> npm i </li>
   <li>cd frontend </li>
@@ -21,6 +21,7 @@ Need info About the Code? Docs will be updated soon, once project is completed.
 <li><a href = "https://www.facebook.com/thealpha.guy.1/"> Aman </a></li>
 <li><a href = "https://www.facebook.com/Palak.578"> Shantanu</a></li>
 <li><a href = "https://www.facebook.com/shantanu.shukla.71404/"> Palak</a></li>
+<li><a href = "https://www.linkedin.com/in/akashsaxena2308/"> Akash Saxena </a></li>
  <br>
  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
