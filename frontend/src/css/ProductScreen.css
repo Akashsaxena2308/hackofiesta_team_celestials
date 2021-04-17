@@ -7,6 +7,9 @@
   background-color: rgb(134, 205, 226);
 } */
 
+.white{
+  color:white;
+}
 .videoscreen{
   display: flex;
   justify-content: center;
