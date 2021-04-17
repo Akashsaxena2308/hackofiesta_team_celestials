@@ -5,7 +5,7 @@
 
 <ui>
   <li> git clone</li>
-  <li>cd opensourceEd</li>
+  <li>cd hackofiesta_team_celestials</li>
   <li> npm i </li>
   <li>cd frontend </li>
   <li>npm i </li>
