@@ -123,9 +123,10 @@ const ProductScreen = ({ history, match }) => {
                   {product.countInStock > 0 && (
                     <ListGroup.Item>
                       <Row>
-                        <Col>Qty</Col>
+                        <Col className="align-items-center" >Qty:</Col>
                         <Col>
                           <Form.Control
+                            className="m-0 p-0"
                             as='select'
                             value={qty}
                             onChange={(e) => setQty(e.target.value)}
@@ -146,7 +147,8 @@ const ProductScreen = ({ history, match }) => {
                   <ListGroup.Item>
                     <Button
                       onClick={addToCartHandler}
-                      className='btn-block'
+                      className='btn-block m-0 p-0'
+                      style={{'height':'45px'}}
                       type='button'
                       disabled={product.countInStock === 0}
                     >
@@ -157,7 +159,7 @@ const ProductScreen = ({ history, match }) => {
               </Card>
             </Col>
           </div>
-          <div className="container-fluid row m-0 mt-5 p-4 acd">
+          <div className="container-fluid row m-0 mt-5 p-4">
             <Col md={6}>
               <h2>Reviews</h2>
               {product.reviews.length === 0 && <Message>No Reviews</Message>}
