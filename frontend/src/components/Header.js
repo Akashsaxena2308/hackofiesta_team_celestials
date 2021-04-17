@@ -22,7 +22,7 @@ const Header = () => {
       <Navbar bg='dark' className = "navb" variant='dark' expand='lg' collapseOnSelect>
         <div className="container-fluid navdiv">
           <LinkContainer to='/'>
-            <Navbar.Brand>Engage</Navbar.Brand>
+            <Navbar.Brand>Intract&Learn</Navbar.Brand>
           </LinkContainer>
           <Navbar.Toggle aria-controls='basic-navbar-nav' />
           <Navbar.Collapse id='basic-navbar-nav'>

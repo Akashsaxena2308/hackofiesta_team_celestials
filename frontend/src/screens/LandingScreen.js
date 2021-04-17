@@ -10,7 +10,7 @@ const LandingScreen = () => {
       <div className="row">
         <div className="col-lg-4">
           <div className="md-5 Heading">
-         <h2 style={{color: 'white', fontWeight: 'bolder',margin: '20px',fontSize: '3rem'}}>Engage</h2>
+         <h2 style={{color: 'white', fontWeight: 'bolder',margin: '20px',fontSize: '3rem'}}>Intract&Learn</h2>
       </div>
       <div class="timeline-learning">
    <div class="line">
