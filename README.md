@@ -35,4 +35,4 @@ Need info About the Code? Docs will be updated soon, once project is completed.
 
 
 
-<p align="center">Made with <span style="color: #e25555;">&hearts;</span> By Open-Source Enthusiasts,Using Open-Source Technologies.</p>
+<p align="center">Made with <span style="color: #e25555;">&hearts; & ☕</span> By Open-Source Enthusiasts,Using Open-Source Technologies.</p>
