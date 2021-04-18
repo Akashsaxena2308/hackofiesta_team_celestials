@@ -80,7 +80,7 @@ const ProductScreen = ({ history, match }) => {
           <Meta title={product.name} />
           <div className="container-fluid row">
             <Col md={6} className="d-flex flex-row align-items-center justify-content-center">
-              <ReactPlayer url="https://youtu.be/g_CTVhorW7w" />
+              <ReactPlayer url="https://youtu.be/0Vg5Ba57enM" />
             </Col>
             <Col md={3}>
               <ListGroup variant='flush'>
