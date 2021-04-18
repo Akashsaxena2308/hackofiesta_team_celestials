@@ -1,4 +1,4 @@
-<h1 align="center">Intract&Learn</h1> <br>
+<h1 align="center">Interact&Learn</h1> <br>
 <p>An Interactive Classroom, Nonprofit, Borderless University, Blockchain-Powered, that is controlled by society and not individuals.</p>
 
 <h2 align="center">Installing Dependencies and Running the platform</h2>
