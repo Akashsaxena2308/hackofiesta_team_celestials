@@ -21,12 +21,12 @@
   width: 15px;
 }
 
-.collapse-button, .collapse-button:hover, .collapse-button:active{
+.collapse-button, .collapse-button:hover, .collapse-button:active,.collapse-button:focus{
   background-color: transparent !important;
-  color: black !important;
+  color: rgb(255, 255, 255) !important;
   font-weight: 500;
   font-size: 14px;
-  border: 1px solid black;
+  border: 1px solid rgb(255, 255, 255);
   box-shadow: none !important;
   outline : hidden;
 }
